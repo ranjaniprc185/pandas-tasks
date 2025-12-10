@@ -1,1 +1,17 @@
 # pandas-tasks
+This repository contains Pandas exercises done for Python Data Analytics practice.
+
+Task 5: Mobile Data Cleaning
+
+ Requirements
+- Read CSV and replace n/a with "unknown"
+- Create table with: brandname, modelname, price, avgrating
+- Remove last 200 rows
+- Remove mobile records with missing RAM info
+
+Task 6: Best Selling & Least Profitable Product
+
+ Requirements
+- Load products1.csv
+- Find product with highest sales
+- Find product with lowest profit
