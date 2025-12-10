@@ -1,5 +1,5 @@
 import pandas as pd
-data=pd.read_csv("C:\\Users\\ranja\\New folder (4)\\Smartphones.csv")
+data=pd.read_csv("datasets/Smartphones.csv")
 df=pd.DataFrame(data)
 df.replace(['n/a','NA'],pd.NA,inplace=True)
 df.fillna("unknown",inplace=True)
