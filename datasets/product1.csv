@@ -1,0 +1,500 @@
+Product ID,Product Name,Category,Units Sold,Price Per Unit
+101,Wireless Mouse,Accessories,500,800
+102,Gaming Laptop,Electronics,150,75000
+103,Mechanical Keyboard,Accessories,300,1500
+104,Smartwatch,Wearables,200,10000
+105,Noise Cancelling Headphones,Electronics,180,20000
+106,External Hard Drive,Storage,250,5000
+107,Smartphone,Electronics,1200,40000
+108,Tablet,Wearables,800,25000
+109,Wireless Earbuds,Accessories,450,5000
+110,Portable Speaker,Accessories,600,7000
+131,Robot Vacuum,Home,400,15000
+132,Smart Doorbell,Home Automation,250,11000
+133,Dash Cam,Automotive,320,10000
+134,Electric Scooter,Transport,180,75000
+135,Smart Thermostat,Home Automation,220,12500
+136,Wireless Projector,Electronics,150,35000
+111,Gaming Console,Electronics,220,35000
+112,Smart TV,Electronics,95,55000
+113,Digital Camera,Electronics,130,30000
+114,Fitness Tracker,Wearables,500,8000
+115,Laptop Stand,Accessories,400,1200
+116,Monitor,Electronics,300,15000
+117,Printer,Electronics,210,9000
+118,Router,Electronics,350,6000
+119,SSD Storage,Storage,275,9500
+120,VR Headset,Electronics,175,25000
+121,Smart Bulbs,Home Automation,450,1500
+122,Streaming Device,Electronics,320,7000
+123,Graphics Card,Electronics,190,45000
+124,Drone,Electronics,120,55000
+125,Wireless Charger,Accessories,550,3000
+126,Gaming Chair,Furniture,210,12000
+127,Bluetooth Adapter,Accessories,480,2000
+128,Security Camera,Electronics,270,12000
+129,Noise Machine,Home,350,5000
+130,Digital Notepad,Electronics,200,18000
+131,Robot Vacuum,Home,400,15000
+132,Smart Doorbell,Home Automation,250,11000
+133,Dash Cam,Automotive,320,10000
+134,Electric Scooter,Transport,180,75000
+135,Smart Thermostat,Home Automation,220,12500
+136,Wireless Projector,Electronics,150,35000
+137,Home Assistant Speaker,Home Automation,400,6000
+138,Power Bank,Accessories,800,2000
+139,Standing Desk,Furniture,270,35000
+140,Noise Cancelling Earbuds,Electronics,350,18000
+141,Car GPS,Automotive,220,8500
+142,Air Purifier,Home,280,9000
+143,LED Desk Lamp,Home,500,4000
+144,Portable Hard Drive,Storage,250,5500
+145,Gaming Mouse Pad,Accessories,600,2000
+146,High-Speed Charger,Accessories,750,2500
+147,3D Printer,Electronics,90,85000
+148,Wireless Home Security System,Home Automation,150,32000
+149,Self-Watering Planter,Home,400,5000
+108,Tablet,Wearables,800,25000
+109,Wireless Earbuds,Accessories,450,5000
+110,Portable Speaker,Accessories,600,7000
+111,Gaming Console,Electronics,220,35000
+112,Smart TV,Electronics,95,55000
+113,Digital Camera,Electronics,130,30000
+114,Fitness Tracker,Wearables,500,8000
+115,Laptop Stand,Accessories,400,1200
+116,Monitor,Electronics,300,15000
+117,Printer,Electronics,210,9000
+118,Router,Electronics,350,6000
+119,SSD Storage,Storage,275,9500
+120,VR Headset,Electronics,175,25000
+121,Smart Bulbs,Home Automation,450,1500
+150,Smart Kitchen Scale,Home,350,4500
+151,Smart Air Fryer,Home,290,15000
+152,Wireless Charging Pad,Accessories,600,3500
+153,Electric Bicycle,Transport,130,85000
+154,Smart Coffee Maker,Home,340,12000
+155,4K Webcam,Electronics,210,9000
+156,Adjustable Laptop Stand,Furniture,450,4500
+157,Ultrasonic Humidifier,Home,300,7500
+158,Portable Solar Panel,Electronics,170,25000
+159,Smart Lock,Home Automation,230,11000
+160,Dash Cam with Night Vision,Automotive,280,12500
+101,Wireless Mouse,Accessories,500,800
+102,Gaming Laptop,Electronics,150,75000
+103,Mechanical Keyboard,Accessories,300,1500
+104,Smartwatch,Wearables,200,10000
+105,Noise Cancelling Headphones,Electronics,180,20000
+106,External Hard Drive,Storage,250,5000
+107,Smartphone,Electronics,1200,40000
+108,Tablet,Wearables,800,25000
+109,Wireless Earbuds,Accessories,450,5000
+110,Portable Speaker,Accessories,600,7000
+131,Robot Vacuum,Home,400,15000
+132,Smart Doorbell,Home Automation,250,11000
+133,Dash Cam,Automotive,320,10000
+134,Electric Scooter,Transport,180,75000
+135,Smart Thermostat,Home Automation,220,12500
+136,Wireless Projector,Electronics,150,35000
+111,Gaming Console,Electronics,220,35000
+112,Smart TV,Electronics,95,55000
+113,Digital Camera,Electronics,130,30000
+114,Fitness Tracker,Wearables,500,8000
+115,Laptop Stand,Accessories,400,1200
+116,Monitor,Electronics,300,15000
+117,Printer,Electronics,210,9000
+118,Router,Electronics,350,6000
+119,SSD Storage,Storage,275,9500
+120,VR Headset,Electronics,175,25000
+121,Smart Bulbs,Home Automation,450,1500
+122,Streaming Device,Electronics,320,7000
+123,Graphics Card,Electronics,190,45000
+124,Drone,Electronics,120,55000
+125,Wireless Charger,Accessories,550,3000
+126,Gaming Chair,Furniture,210,12000
+127,Bluetooth Adapter,Accessories,480,2000
+128,Security Camera,Electronics,270,12000
+129,Noise Machine,Home,350,5000
+130,Digital Notepad,Electronics,200,18000
+131,Robot Vacuum,Home,400,15000
+132,Smart Doorbell,Home Automation,250,11000
+133,Dash Cam,Automotive,320,10000
+134,Electric Scooter,Transport,180,75000
+135,Smart Thermostat,Home Automation,220,12500
+136,Wireless Projector,Electronics,150,35000
+137,Home Assistant Speaker,Home Automation,400,6000
+138,Power Bank,Accessories,800,2000
+139,Standing Desk,Furniture,270,35000
+140,Noise Cancelling Earbuds,Electronics,350,18000
+141,Car GPS,Automotive,220,8500
+142,Air Purifier,Home,280,9000
+143,LED Desk Lamp,Home,500,4000
+144,Portable Hard Drive,Storage,250,5500
+145,Gaming Mouse Pad,Accessories,600,2000
+146,High-Speed Charger,Accessories,750,2500
+147,3D Printer,Electronics,90,85000
+148,Wireless Home Security System,Home Automation,150,32000
+149,Self-Watering Planter,Home,400,5000
+108,Tablet,Wearables,800,25000
+109,Wireless Earbuds,Accessories,450,5000
+110,Portable Speaker,Accessories,600,7000
+111,Gaming Console,Electronics,220,35000
+112,Smart TV,Electronics,95,55000
+113,Digital Camera,Electronics,130,30000
+114,Fitness Tracker,Wearables,500,8000
+115,Laptop Stand,Accessories,400,1200
+116,Monitor,Electronics,300,15000
+117,Printer,Electronics,210,9000
+118,Router,Electronics,350,6000
+119,SSD Storage,Storage,275,9500
+120,VR Headset,Electronics,175,25000
+121,Smart Bulbs,Home Automation,450,1500
+150,Smart Kitchen Scale,Home,350,4500
+122,Streaming Device,Electronics,320,7000
+123,Graphics Card,Electronics,190,45000
+124,Drone,Electronics,120,55000
+125,Wireless Charger,Accessories,550,3000
+126,Gaming Chair,Furniture,210,12000
+127,Bluetooth Adapter,Accessories,480,2000
+128,Security Camera,Electronics,270,12000
+129,Noise Machine,Home,350,5000
+130,Digital Notepad,Electronics,200,18000
+131,Robot Vacuum,Home,400,15000
+132,Smart Doorbell,Home Automation,250,11000
+133,Dash Cam,Automotive,320,10000
+134,Electric Scooter,Transport,180,75000
+135,Smart Thermostat,Home Automation,220,12500
+136,Wireless Projector,Electronics,150,35000
+137,Home Assistant Speaker,Home Automation,400,6000
+138,Power Bank,Accessories,800,2000
+139,Standing Desk,Furniture,270,35000
+140,Noise Cancelling Earbuds,Electronics,350,18000
+141,Car GPS,Automotive,220,8500
+142,Air Purifier,Home,280,9000
+143,LED Desk Lamp,Home,500,4000
+144,Portable Hard Drive,Storage,250,5500
+145,Gaming Mouse Pad,Accessories,600,2000
+146,High-Speed Charger,Accessories,750,2500
+147,3D Printer,Electronics,90,85000
+148,Wireless Home Security System,Home Automation,150,32000
+149,Self-Watering Planter,Home,400,5000
+108,Tablet,Wearables,800,25000
+109,Wireless Earbuds,Accessories,450,5000
+110,Portable Speaker,Accessories,600,7000
+111,Gaming Console,Electronics,220,35000
+112,Smart TV,Electronics,95,55000
+113,Digital Camera,Electronics,130,30000
+114,Fitness Tracker,Wearables,500,8000
+115,Laptop Stand,Accessories,400,1200
+116,Monitor,Electronics,300,15000
+117,Printer,Electronics,210,9000
+118,Router,Electronics,350,6000
+119,SSD Storage,Storage,275,9500
+120,VR Headset,Electronics,175,25000
+121,Smart Bulbs,Home Automation,450,1500
+150,Smart Kitchen Scale,Home,350,4500
+151,Smart Air Fryer,Home,290,15000
+152,Wireless Charging Pad,Accessories,600,3500
+153,Electric Bicycle,Transport,130,85000
+154,Smart Coffee Maker,Home,340,12000
+155,4K Webcam,Electronics,210,9000
+156,Adjustable Laptop Stand,Furniture,450,4500
+157,Ultrasonic Humidifier,Home,300,7500
+158,Portable Solar Panel,Electronics,170,25000
+159,Smart Lock,Home Automation,230,11000
+160,Dash Cam with Night Vision,Automotive,280,12500
+101,Wireless Mouse,Accessories,500,800
+102,Gaming Laptop,Electronics,150,75000
+103,Mechanical Keyboard,Accessories,300,1500
+104,Smartwatch,Wearables,200,10000
+105,Noise Cancelling Headphones,Electronics,180,20000
+106,External Hard Drive,Storage,250,5000
+107,Smartphone,Electronics,1200,40000
+108,Tablet,Wearables,800,25000
+109,Wireless Earbuds,Accessories,450,5000
+110,Portable Speaker,Accessories,600,7000
+131,Robot Vacuum,Home,400,15000
+132,Smart Doorbell,Home Automation,250,11000
+133,Dash Cam,Automotive,320,10000
+134,Electric Scooter,Transport,180,75000
+135,Smart Thermostat,Home Automation,220,12500
+136,Wireless Projector,Electronics,150,35000
+111,Gaming Console,Electronics,220,35000
+112,Smart TV,Electronics,95,55000
+113,Digital Camera,Electronics,130,30000
+114,Fitness Tracker,Wearables,500,8000
+115,Laptop Stand,Accessories,400,1200
+116,Monitor,Electronics,300,15000
+117,Printer,Electronics,210,9000
+118,Router,Electronics,350,6000
+119,SSD Storage,Storage,275,9500
+122,Streaming Device,Electronics,320,7000
+123,Graphics Card,Electronics,190,45000
+124,Drone,Electronics,120,55000
+125,Wireless Charger,Accessories,550,3000
+126,Gaming Chair,Furniture,210,12000
+127,Bluetooth Adapter,Accessories,480,2000
+128,Security Camera,Electronics,270,12000
+129,Noise Machine,Home,350,5000
+130,Digital Notepad,Electronics,200,18000
+131,Robot Vacuum,Home,400,15000
+132,Smart Doorbell,Home Automation,250,11000
+133,Dash Cam,Automotive,320,10000
+134,Electric Scooter,Transport,180,75000
+135,Smart Thermostat,Home Automation,220,12500
+136,Wireless Projector,Electronics,150,35000
+137,Home Assistant Speaker,Home Automation,400,6000
+138,Power Bank,Accessories,800,2000
+139,Standing Desk,Furniture,270,35000
+140,Noise Cancelling Earbuds,Electronics,350,18000
+141,Car GPS,Automotive,220,8500
+142,Air Purifier,Home,280,9000
+143,LED Desk Lamp,Home,500,4000
+144,Portable Hard Drive,Storage,250,5500
+145,Gaming Mouse Pad,Accessories,600,2000
+146,High-Speed Charger,Accessories,750,2500
+147,3D Printer,Electronics,90,85000
+148,Wireless Home Security System,Home Automation,150,32000
+149,Self-Watering Planter,Home,400,5000
+108,Tablet,Wearables,800,25000
+109,Wireless Earbuds,Accessories,450,5000
+110,Portable Speaker,Accessories,600,7000
+111,Gaming Console,Electronics,220,35000
+112,Smart TV,Electronics,95,55000
+113,Digital Camera,Electronics,130,30000
+114,Fitness Tracker,Wearables,500,8000
+115,Laptop Stand,Accessories,400,1200
+116,Monitor,Electronics,300,15000
+117,Printer,Electronics,210,9000
+118,Router,Electronics,350,6000
+119,SSD Storage,Storage,275,9500
+120,VR Headset,Electronics,175,25000
+121,Smart Bulbs,Home Automation,450,1500
+150,Smart Kitchen Scale,Home,350,4500
+151,Smart Air Fryer,Home,290,15000
+152,Wireless Charging Pad,Accessories,600,3500
+153,Electric Bicycle,Transport,130,85000
+154,Smart Coffee Maker,Home,340,12000
+155,4K Webcam,Electronics,210,9000
+156,Adjustable Laptop Stand,Furniture,450,4500
+157,Ultrasonic Humidifier,Home,300,7500
+158,Portable Solar Panel,Electronics,170,25000
+159,Smart Lock,Home Automation,230,11000
+160,Dash Cam with Night Vision,Automotive,280,12500
+101,Wireless Mouse,Accessories,500,800
+102,Gaming Laptop,Electronics,150,75000
+103,Mechanical Keyboard,Accessories,300,1500
+104,Smartwatch,Wearables,200,10000
+105,Noise Cancelling Headphones,Electronics,180,20000
+106,External Hard Drive,Storage,250,5000
+107,Smartphone,Electronics,1200,40000
+108,Tablet,Wearables,800,25000
+109,Wireless Earbuds,Accessories,450,5000
+110,Portable Speaker,Accessories,600,7000
+131,Robot Vacuum,Home,400,15000
+132,Smart Doorbell,Home Automation,250,11000
+133,Dash Cam,Automotive,320,10000
+134,Electric Scooter,Transport,180,75000
+135,Smart Thermostat,Home Automation,220,12500
+136,Wireless Projector,Electronics,150,35000
+111,Gaming Console,Electronics,220,35000
+112,Smart TV,Electronics,95,55000
+113,Digital Camera,Electronics,130,30000
+114,Fitness Tracker,Wearables,500,8000
+115,Laptop Stand,Accessories,400,1200
+116,Monitor,Electronics,300,15000
+117,Printer,Electronics,210,9000
+118,Router,Electronics,350,6000
+119,SSD Storage,Storage,275,9500
+120,VR Headset,Electronics,175,25000
+121,Smart Bulbs,Home Automation,450,1500
+122,Streaming Device,Electronics,320,7000
+123,Graphics Card,Electronics,190,45000
+124,Drone,Electronics,120,55000
+125,Wireless Charger,Accessories,550,3000
+126,Gaming Chair,Furniture,210,12000
+127,Bluetooth Adapter,Accessories,480,2000
+128,Security Camera,Electronics,270,12000
+129,Noise Machine,Home,350,5000
+130,Digital Notepad,Electronics,200,18000
+131,Robot Vacuum,Home,400,15000
+132,Smart Doorbell,Home Automation,250,11000
+133,Dash Cam,Automotive,320,10000
+134,Electric Scooter,Transport,180,75000
+135,Smart Thermostat,Home Automation,220,12500
+136,Wireless Projector,Electronics,150,35000
+137,Home Assistant Speaker,Home Automation,400,6000
+138,Power Bank,Accessories,800,2000
+139,Standing Desk,Furniture,270,35000
+140,Noise Cancelling Earbuds,Electronics,350,18000
+141,Car GPS,Automotive,220,8500
+142,Air Purifier,Home,280,9000
+143,LED Desk Lamp,Home,500,4000
+144,Portable Hard Drive,Storage,250,5500
+145,Gaming Mouse Pad,Accessories,600,2000
+146,High-Speed Charger,Accessories,750,2500
+147,3D Printer,Electronics,90,85000
+148,Wireless Home Security System,Home Automation,150,32000
+149,Self-Watering Planter,Home,400,5000
+108,Tablet,Wearables,800,25000
+109,Wireless Earbuds,Accessories,450,5000
+110,Portable Speaker,Accessories,600,7000
+111,Gaming Console,Electronics,220,35000
+112,Smart TV,Electronics,95,55000
+113,Digital Camera,Electronics,130,30000
+114,Fitness Tracker,Wearables,500,8000
+115,Laptop Stand,Accessories,400,1200
+116,Monitor,Electronics,300,15000
+117,Printer,Electronics,210,9000
+118,Router,Electronics,350,6000
+119,SSD Storage,Storage,275,9500
+120,VR Headset,Electronics,175,25000
+121,Smart Bulbs,Home Automation,450,1500
+150,Smart Kitchen Scale,Home,350,4500
+122,Streaming Device,Electronics,320,7000
+123,Graphics Card,Electronics,190,45000
+124,Drone,Electronics,120,55000
+125,Wireless Charger,Accessories,550,3000
+126,Gaming Chair,Furniture,210,12000
+127,Bluetooth Adapter,Accessories,480,2000
+128,Security Camera,Electronics,270,12000
+129,Noise Machine,Home,350,5000
+130,Digital Notepad,Electronics,200,18000
+131,Robot Vacuum,Home,400,15000
+132,Smart Doorbell,Home Automation,250,11000
+133,Dash Cam,Automotive,320,10000
+134,Electric Scooter,Transport,180,75000
+135,Smart Thermostat,Home Automation,220,12500
+136,Wireless Projector,Electronics,150,35000
+137,Home Assistant Speaker,Home Automation,400,6000
+138,Power Bank,Accessories,800,2000
+139,Standing Desk,Furniture,270,35000
+140,Noise Cancelling Earbuds,Electronics,350,18000
+141,Car GPS,Automotive,220,8500
+142,Air Purifier,Home,280,9000
+143,LED Desk Lamp,Home,500,4000
+144,Portable Hard Drive,Storage,250,5500
+145,Gaming Mouse Pad,Accessories,600,2000
+146,High-Speed Charger,Accessories,750,2500
+147,3D Printer,Electronics,90,85000
+148,Wireless Home Security System,Home Automation,150,32000
+149,Self-Watering Planter,Home,400,5000
+108,Tablet,Wearables,800,25000
+109,Wireless Earbuds,Accessories,450,5000
+110,Portable Speaker,Accessories,600,7000
+111,Gaming Console,Electronics,220,35000
+112,Smart TV,Electronics,95,55000
+113,Digital Camera,Electronics,130,30000
+114,Fitness Tracker,Wearables,500,8000
+115,Laptop Stand,Accessories,400,1200
+116,Monitor,Electronics,300,15000
+117,Printer,Electronics,210,9000
+118,Router,Electronics,350,6000
+119,SSD Storage,Storage,275,9500
+120,VR Headset,Electronics,175,25000
+121,Smart Bulbs,Home Automation,450,1500
+150,Smart Kitchen Scale,Home,350,4500
+151,Smart Air Fryer,Home,290,15000
+152,Wireless Charging Pad,Accessories,600,3500
+153,Electric Bicycle,Transport,130,85000
+154,Smart Coffee Maker,Home,340,12000
+155,4K Webcam,Electronics,210,9000
+156,Adjustable Laptop Stand,Furniture,450,4500
+157,Ultrasonic Humidifier,Home,300,7500
+158,Portable Solar Panel,Electronics,170,25000
+159,Smart Lock,Home Automation,230,11000
+160,Dash Cam with Night Vision,Automotive,280,12500
+101,Wireless Mouse,Accessories,500,800
+102,Gaming Laptop,Electronics,150,75000
+103,Mechanical Keyboard,Accessories,300,1500
+104,Smartwatch,Wearables,200,10000
+105,Noise Cancelling Headphones,Electronics,180,20000
+106,External Hard Drive,Storage,250,5000
+107,Smartphone,Electronics,1200,40000
+108,Tablet,Wearables,800,25000
+109,Wireless Earbuds,Accessories,450,5000
+110,Portable Speaker,Accessories,600,7000
+131,Robot Vacuum,Home,400,15000
+132,Smart Doorbell,Home Automation,250,11000
+133,Dash Cam,Automotive,320,10000
+134,Electric Scooter,Transport,180,75000
+135,Smart Thermostat,Home Automation,220,12500
+136,Wireless Projector,Electronics,150,35000
+111,Gaming Console,Electronics,220,35000
+112,Smart TV,Electronics,95,55000
+120,VR Headset,Electronics,175,25000
+121,Smart Bulbs,Home Automation,450,1500
+122,Streaming Device,Electronics,320,7000
+123,Graphics Card,Electronics,190,45000
+124,Drone,Electronics,120,55000
+125,Wireless Charger,Accessories,550,3000
+126,Gaming Chair,Furniture,210,12000
+127,Bluetooth Adapter,Accessories,480,2000
+128,Security Camera,Electronics,270,12000
+129,Noise Machine,Home,350,5000
+130,Digital Notepad,Electronics,200,18000
+131,Robot Vacuum,Home,400,15000
+132,Smart Doorbell,Home Automation,250,11000
+133,Dash Cam,Automotive,320,10000
+134,Electric Scooter,Transport,180,75000
+135,Smart Thermostat,Home Automation,220,12500
+136,Wireless Projector,Electronics,150,35000
+137,Home Assistant Speaker,Home Automation,400,6000
+138,Power Bank,Accessories,800,2000
+139,Standing Desk,Furniture,270,35000
+140,Noise Cancelling Earbuds,Electronics,350,18000
+141,Car GPS,Automotive,220,8500
+142,Air Purifier,Home,280,9000
+143,LED Desk Lamp,Home,500,4000
+144,Portable Hard Drive,Storage,250,5500
+145,Gaming Mouse Pad,Accessories,600,2000
+146,High-Speed Charger,Accessories,750,2500
+147,3D Printer,Electronics,90,85000
+148,Wireless Home Security System,Home Automation,150,32000
+149,Self-Watering Planter,Home,400,5000
+108,Tablet,Wearables,800,25000
+109,Wireless Earbuds,Accessories,450,5000
+110,Portable Speaker,Accessories,600,7000
+111,Gaming Console,Electronics,220,35000
+112,Smart TV,Electronics,95,55000
+113,Digital Camera,Electronics,130,30000
+114,Fitness Tracker,Wearables,500,8000
+115,Laptop Stand,Accessories,400,1200
+116,Monitor,Electronics,300,15000
+117,Printer,Electronics,210,9000
+118,Router,Electronics,350,6000
+119,SSD Storage,Storage,275,9500
+120,VR Headset,Electronics,175,25000
+121,Smart Bulbs,Home Automation,450,1500
+150,Smart Kitchen Scale,Home,350,4500
+151,Smart Air Fryer,Home,290,15000
+152,Wireless Charging Pad,Accessories,600,3500
+153,Electric Bicycle,Transport,130,85000
+154,Smart Coffee Maker,Home,340,12000
+155,4K Webcam,Electronics,210,9000
+156,Adjustable Laptop Stand,Furniture,450,4500
+157,Ultrasonic Humidifier,Home,300,7500
+158,Portable Solar Panel,Electronics,170,25000
+159,Smart Lock,Home Automation,230,11000
+131,Robot Vacuum,Home,400,15000
+132,Smart Doorbell,Home Automation,250,11000
+133,Dash Cam,Automotive,320,10000
+134,Electric Scooter,Transport,180,75000
+135,Smart Thermostat,Home Automation,220,12500
+136,Wireless Projector,Electronics,150,35000
+137,Home Assistant Speaker,Home Automation,400,6000
+138,Power Bank,Accessories,800,2000
+139,Standing Desk,Furniture,270,35000
+140,Noise Cancelling Earbuds,Electronics,350,18000
+141,Car GPS,Automotive,220,8500
+142,Air Purifier,Home,280,9000
+143,LED Desk Lamp,Home,500,4000
+144,Portable Hard Drive,Storage,250,5500
+145,Gaming Mouse Pad,Accessories,600,2000
+146,High-Speed Charger,Accessories,750,2500
+147,3D Printer,Electronics,90,85000
+148,Wireless Home Security System,Home Automation,150,32000
+160,Dash Cam with Night Vision,Automotive,280,12500
+147,3D Printer,Electronics,90,85000
+155,4K Webcam,Electronics,210,9000
+156,Adjustable Laptop Stand,Furniture,450,4500
+148,Wireless Home Security System,Home Automation,150,32000
