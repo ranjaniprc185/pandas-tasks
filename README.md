@@ -15,3 +15,9 @@ Task 6: Best Selling & Least Profitable Product
 - Load products1.csv
 - Find product with highest sales
 - Find product with lowest profit
+
+  Datasets Used
+
+This repository includes the following datasets required for the tasks:
+
+All dataset files are stored inside the `datasets/` folder.
