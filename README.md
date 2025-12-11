@@ -1,7 +1,7 @@
 # pandas-tasks
 This repository contains Pandas exercises done for Python Data Analytics practice.
 
-Task 5: Mobile Data Cleaning
+Task 1: Mobile Data Cleaning
 
  Requirements
 - Read CSV and replace n/a with "unknown"
@@ -9,7 +9,7 @@ Task 5: Mobile Data Cleaning
 - Remove last 200 rows
 - Remove mobile records with missing RAM info
 
-Task 6: Best Selling & Least Profitable Product
+Task 2: Best Selling & Least Profitable Product
 
  Requirements
 - Load products1.csv
