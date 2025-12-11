@@ -1,0 +1,58 @@
+    brand_name  ... resolution_width
+0        apple  ...              828
+1        apple  ...              828
+2        apple  ...             1242
+3        apple  ...             1170
+4        apple  ...             1170
+..         ...  ...              ...
+975     xiaomi  ...             1080
+976     xiaomi  ...             1080
+977     xiaomi  ...             1080
+978        zte  ...             1080
+979        zte  ...             1116
+
+[980 rows x 22 columns]
+    brand_name  ... ram_capacity
+0        apple  ...            4
+1        apple  ...            4
+2        apple  ...            4
+3        apple  ...            4
+4        apple  ...            4
+..         ...  ...          ...
+975     xiaomi  ...            4
+976     xiaomi  ...            4
+977     xiaomi  ...            6
+978        zte  ...            6
+979        zte  ...            8
+
+[980 rows x 5 columns]
+    brand_name                    model   price  avg_rating  ram_capacity
+0        apple          Apple iPhone 11   38999         7.3             4
+1        apple  Apple iPhone 11 (128GB)   46999         7.5             4
+2        apple  Apple iPhone 11 Pro Max  109900         7.7             4
+3        apple          Apple iPhone 12   51999         7.4             4
+4        apple  Apple iPhone 12 (128GB)   55999         7.5             4
+..         ...                      ...     ...         ...           ...
+775       vivo                Vivo V25e   19990         8.4             8
+776       vivo             Vivo V26 Pro   42990         8.7            12
+777       vivo                 Vivo V27   27990         8.3             8
+778       vivo             Vivo V27 Pro   43999         8.7            12
+779       vivo                 Vivo V28   28990         8.4             8
+
+[780 rows x 5 columns]
+780
+    brand_name                    model   price  avg_rating  ram_capacity
+0        apple          Apple iPhone 11   38999         7.3             4
+1        apple  Apple iPhone 11 (128GB)   46999         7.5             4
+2        apple  Apple iPhone 11 Pro Max  109900         7.7             4
+3        apple          Apple iPhone 12   51999         7.4             4
+4        apple  Apple iPhone 12 (128GB)   55999         7.5             4
+..         ...                      ...     ...         ...           ...
+775       vivo                Vivo V25e   19990         8.4             8
+776       vivo             Vivo V26 Pro   42990         8.7            12
+777       vivo                 Vivo V27   27990         8.3             8
+778       vivo             Vivo V27 Pro   43999         8.7            12
+779       vivo                 Vivo V28   28990         8.4             8
+
+[780 rows x 5 columns]
+780
